@@ -18,9 +18,7 @@ social:
     link: https://facebook.com/akram.bakry.921
     icon_pack: fab
     icon: facebook
-organizations:
-  - name: 腾讯
-    url: ""
+organizations: []
 superuser: true
 status:
   icon: ☕️
