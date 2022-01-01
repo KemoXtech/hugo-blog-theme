@@ -13,11 +13,6 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/akram
-  - display:
-      header: false
-    link: https://facebook.com/akram.bakry.921
-    icon_pack: fab
-    icon: facebook
 organizations: []
 superuser: true
 status:
